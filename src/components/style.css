@@ -1,0 +1,120 @@
+body {
+
+	background-image: url('https://i.ibb.co/S7V9qG1/background.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	display: flex;
+ 	justify-content: center;
+  	align-items: center;
+
+}
+
+ul {
+    width: 70%;
+    margin: auto;
+}
+
+.h1center{
+
+    text-align: center;
+
+}
+
+.thisClass {
+
+    color: red;
+    background-color: white;
+    /*font-size: 1rem;*/
+    /*padding:1rem;*/
+
+}
+
+.borderCyan:hover{
+
+    border-color:cyan;
+
+}
+
+
+.h1class{
+
+    font-family: comic sans MS;
+    color: purple;
+    font-size: 35px ;
+
+}
+
+.textBlue{
+
+    color: blue;
+
+}
+
+.textRed{
+
+    color: red;
+
+}
+
+.textPurple{
+
+    color: purple;
+
+}
+
+.borderTest{
+
+    border-bottom-width: 2px solid #C8C8C8;
+    padding-bottom: '8px'
+  
+}
+
+.card {
+ 
+    background: #000000d0;
+	border-radius: 25px;
+	color: #ffffff;
+	max-width: 553px;
+
+  }
+
+  .card1 {
+ 
+    background: #000000d0;
+	border-radius: 25px;
+	color: #ffffff;
+	max-width: 553px;
+
+  }
+
+ .inputs {
+
+	outline: none;
+	background: #7c7c7c2b;
+	color: white;
+	font-family:comic sans ms ;
+    text-align: center;
+	max-width: 300px; 
+	border-radius: 10px;
+	border-color: #8D1AFF;
+
+  }
+
+  .fields {
+
+	outline: none;
+	background: #7c7c7c2b;
+	color: white;
+	font-family: inherit;
+	max-width: 480px;
+	border-radius: 10px;
+	font-family:comic sans ms ;
+	text-align: center;
+	
+}
+
+.text{
+
+	color: white;
+
+}
